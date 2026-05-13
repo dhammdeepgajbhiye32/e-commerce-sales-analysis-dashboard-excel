@@ -32,21 +32,23 @@ This dashboard helps stakeholders monitor **key business metrics** and identify 
 
 ## Table of Contents
 
-- <a href="#objectives">Project Overview</a>
-- <a href="#dashboard-features">Business Problem</a>
-- <a href="#key-kpis">Key KPIs</a>
-- <a href="#dashboard-images">Dashboard Images</a>
-- <a href="#key-insights">Key Insights</a>
-- <a href="#business-recommendations">Business Recommendations</a>
-- <a href="#dataset-information">Dataset Information</a>
-- <a href="#dataset-source">Dataset Source</a>
-- <a href="#tools--technologies">Tools & Technologies</a>
-- <a href="#data-cleaning--preparation">Data Cleaning & Preparation</a>
-- <a href="#project-workflow">Project Workflow</a>
-- <a href="#project-impact">Project Impact</a>
-- <a href="#project-structure">Project Structure</a>
-- <a href="#how-to-use">How To Use</a>
-- <a href="#author--contact">Author & Contact</a>
+- [Project Overview](#-project-overview)
+- [Business Problem](#-business-problem)
+- [Objectives](#-objectives)
+- [Dashboard Features](#-dashboard-features)
+- [Key KPIs](#-key-kpis)
+- [Dashboard Images](#-dashboard-images)
+- [Key Insights](#-key-insights)
+- [Business Recommendations](#-business-recommendations)
+- [Dataset Information](#-dataset-information)
+- [Dataset Source](#-dataset-source)
+- [Tools & Technologies](#️-tools--technologies)
+- [Data Cleaning & Preparation](#-data-cleaning--preparation)
+- [Project Workflow](#-project-workflow)
+- [Project Impact](#-project-impact)
+- [Project Structure](#-project-structure)
+- [How to Use](#️-how-to-use)
+- [Author & Contact](#author--contact)
 
 ---
 
@@ -210,9 +212,8 @@ The following **data preparation** steps were performed:
 
 ---
 
-```
 ## 📂 Project Structure
-
+```
 Ecommerce-Sales-Excel-Dashboard/
 │
 ├── Ecommerce Sales Analysis-Dashboard.xlsm
