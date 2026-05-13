@@ -213,13 +213,24 @@ The following **data preparation** steps were performed:
 ---
 
 ## 📂 Project Structure
-```
-Ecommerce-Sales-Excel-Dashboard/
+
+```bash
+Ecommerce_Sales_Analysis_Dashboard/
 │
-├── Ecommerce Sales Analysis-Dashboard.xlsm
-├── README.md
-├── Dashboard Screenshots/
-└── Dataset/
+├── Readme.md
+├── .gitignore
+├── Ecommerce_Sales_Analysis_Report.pdf
+│
+├── dashboard/                                  # Excel Dashboard File
+│   └── Ecommerce Sales Analysis-Dashboard.xlsm
+│
+├── data/                                       # Excel Original Dataset
+│   └── ecommerce_sales_analysis.xlsx
+│
+└── images/                                     # Images
+    ├── Sales_Dashboard.png   
+    ├── Key_Insights.png   
+    └── BusinessRecommendations.png
 ```
 
 ---
