@@ -37,7 +37,7 @@ This dashboard helps stakeholders monitor **key business metrics** and identify 
 - [Objectives](#-objectives)
 - [Dashboard Features](#-dashboard-features)
 - [Key KPIs](#-key-kpis)
-- [Dashboard Images](#-dashboard-images)
+- [Dashboard Images](#dashboard-images)
 - [Key Insights](#-key-insights)
 - [Business Recommendations](#-business-recommendations)
 - [Dataset Information](#-dataset-information)
