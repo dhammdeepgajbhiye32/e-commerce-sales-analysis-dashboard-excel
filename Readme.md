@@ -87,7 +87,7 @@ This dashboard helps stakeholders monitor **key business metrics** and identify 
 
 ---
 
-## Dashboard Images
+## 📸 Dashboard Images
 
 ### Main Dashboard
 ![Dashboard Preview](images/Sales_Dashboard.png)
@@ -153,7 +153,7 @@ The dataset contains **transactional sales data** from a **fictional retail supe
 
 ---
 
-# 📂 Dataset Source
+## 📂 Dataset Source
 
 Dataset obtained from Kaggle and further cleaned/transformed for dashboard analysis.
 
@@ -178,7 +178,7 @@ https://www.kaggle.com/datasets/naveenkumar20bps1137/sample-superstore
 
 ## 🧹 Data Cleaning & Preparation
 
-The following **data preparation** steps were performed:
+The following **data cleaning & preparation** steps were performed:
 
 - Checked **missing values**
 - **Removed duplicate records**
@@ -245,7 +245,7 @@ Ecommerce_Sales_Analysis_Dashboard/
 
 ---
 
-## Author & Contact
+## 👨‍💻 Author & Contact
 
 Dhammadeep Gajbhiye
 Data Analyst
